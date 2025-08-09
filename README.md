@@ -59,7 +59,17 @@ Time on App: 30 mins
 Membership: 3 years
 ```
 ## Screenshots
-<img width="1592" height="917" alt="image" src="https://github.com/user-attachments/assets/772e5d10-dac3-41e8-b5be-52d833d4d232" />
+
+### Step 1
+<img width="1870" height="910" alt="image" src="https://github.com/user-attachments/assets/307ff196-f0b0-41ed-883f-0fca1f2dc65c" />
+
+### Step 2
+<img width="1869" height="913" alt="image" src="https://github.com/user-attachments/assets/62ed03b2-459c-40ba-8ce8-3b99e44fdc5d" />
+
+### Step 3
+<img width="1877" height="909" alt="image" src="https://github.com/user-attachments/assets/b5242925-7502-46ba-ac7d-f5f4fda442a5" />
+
+
 
 ## Future Improvements
 Auto-optimize cluster count (K) using silhouette score
